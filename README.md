@@ -6,8 +6,14 @@ The results are presented in excel sheets with **one sheet per language pair**. 
   
 - **``results_muda.xlsx``**: precision, recall and F1 accuracy scores for different discourse phenomena. Systems are ranked based on F1 score.
 
-- **``generate_results.ipynb``**: scripts to reproduce the results.
+- **``results_human.xlsx``**: sentence and document-level results based on human evaluation.
+
+- **``generate_results.ipynb``**: scripts to reproduce the automatic evaluation results.
+
+- **``generate_human_ranks.ipynb``**: scripts to reproduce the human evaluation results.
 
 -  **``test``**: test data with references.
 
 -  **``all_submissions``**: main submissions of all teams grouped by language pair.
+
+-  **``human_eval``**: raw human evaluation data for all language pairs.
