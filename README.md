@@ -1,4 +1,4 @@
-This repositoy includes the **automatic evaluation** results of the WMT 2024 chat shared task submissions.
+This repositoy includes the **automatic and human evaluation** results of the WMT 2024 chat shared task submissions.
 
 The results are presented in excel sheets with **one sheet per language pair**. It includes the following:
 
